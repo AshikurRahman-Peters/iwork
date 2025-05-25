@@ -48,9 +48,7 @@ _Coming soon_
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/YourUsername/smart-count.git
+git clone https://github.com/AshikurRahman-Peters/iwork.git
 cd smart-count
-# Setup your .env and database
-composer install
-php artisan migrate
-php artisan serve
+# Setup your db_connection.php and database
+

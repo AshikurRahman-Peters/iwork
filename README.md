@@ -1,6 +1,6 @@
 # 🧵 Smart Count for Worker
 
-**Smart Count for Worker** is a garment industry productivity tool designed to track real-time output, efficiency, and performance of workers on the production floor. This system helps supervisors and management gain insights into how many garments are being completed, per-worker productivity, line efficiency, and much more.
+**Smart Count for Worker** is a garment industry productivity tool designed to track workers' real-time output, efficiency, and performance on the production floor. This system helps supervisors and management understand how many garments are being completed, per-worker productivity, line efficiency, and much more.
 
 ---
 
